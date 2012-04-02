@@ -8,5 +8,5 @@ exports.index = function(req, res){
 };
 
 exports.version = function(req, res){
-  res.json({version: '1.0'})
+  res.json({version: '2.0'})
 };
